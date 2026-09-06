@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/organictyping/main/.github/assets/thumbnail.png" alt="organictyping" width="100%">
+</p>
+
 Organic typing signals make written text feel human and alive. Pauses, hesitations, and rhythmic bursts of keystrokes form patterns that reflect individual thinking styles, and without them, text can appear flat or artificially generated.
 
 Similarly, phrasing variations, natural backtracking, and the flow formed by small timing irregularities help distinguish authentic human writing. They may even expose how someone organically structures ideas, pauses to reconsider, or lets thoughts unfold over time.
