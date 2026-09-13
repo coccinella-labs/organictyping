@@ -1,0 +1,37 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Model Baseline Dataset Record (synthetic only)",
+  "description": "Synthetic-only training record. No real human typing. No raw text content.",
+  "type": "object",
+  "properties": {
+    "label": {
+      "type": "string",
+      "enum": ["human-like-synthetic", "robotic-synthetic"],
+      "description": "Synthetic class only. Must not be relabeled as real human."
+    },
+    "source": {
+      "type": "string",
+      "enum": ["synthetic-train", "synthetic-heldout"],
+      "description": "Independently generated splits use different seeds."
+    },
+    "session_id": { "type": "string" },
+    "seed": { "type": "integer" },
+    "stats": {
+      "type": "object",
+      "description": "TypingStats contract (8-dim with rhythmVector[5]).",
+      "properties": {
+        "averageInterval": { "type": "number" },
+        "stdInterval": { "type": "number" },
+        "pauseCount": { "type": "integer" },
+        "rhythmVector": {
+          "type": "array",
+          "items": { "type": "integer" },
+          "minItems": 5,
+          "maxItems": 5
+        }
+      },
+      "required": ["averageInterval", "stdInterval", "pauseCount", "rhythmVector"]
+    }
+  },
+  "required": ["label", "source", "session_id", "seed", "stats"]
+}

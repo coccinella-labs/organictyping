@@ -1,0 +1,1442 @@
+[
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-000",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 198.13,
+      "stdInterval": 28.6,
+      "pauseCount": 6,
+      "rhythmVector": [
+        8,
+        16,
+        12,
+        12,
+        12
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-001",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 201.92,
+      "stdInterval": 54.05,
+      "pauseCount": 1,
+      "rhythmVector": [
+        4,
+        25,
+        1,
+        20,
+        10
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-002",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 198.37,
+      "stdInterval": 67.72,
+      "pauseCount": 4,
+      "rhythmVector": [
+        2,
+        1,
+        7,
+        33,
+        17
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-003",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 138.63,
+      "stdInterval": 55.38,
+      "pauseCount": 1,
+      "rhythmVector": [
+        17,
+        2,
+        15,
+        10,
+        16
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-004",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 213.74,
+      "stdInterval": 41.57,
+      "pauseCount": 6,
+      "rhythmVector": [
+        11,
+        19,
+        6,
+        3,
+        21
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-005",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 143.11,
+      "stdInterval": 60.78,
+      "pauseCount": 2,
+      "rhythmVector": [
+        16,
+        7,
+        18,
+        3,
+        16
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-006",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 162.64,
+      "stdInterval": 52.55,
+      "pauseCount": 1,
+      "rhythmVector": [
+        12,
+        6,
+        4,
+        1,
+        37
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-007",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 134.76,
+      "stdInterval": 46.12,
+      "pauseCount": 3,
+      "rhythmVector": [
+        15,
+        16,
+        18,
+        1,
+        10
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-008",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 196.98,
+      "stdInterval": 50.58,
+      "pauseCount": 0,
+      "rhythmVector": [
+        6,
+        10,
+        17,
+        10,
+        17
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-009",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 197.36,
+      "stdInterval": 46.05,
+      "pauseCount": 0,
+      "rhythmVector": [
+        9,
+        15,
+        18,
+        13,
+        5
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-010",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 127.85,
+      "stdInterval": 61.7,
+      "pauseCount": 0,
+      "rhythmVector": [
+        15,
+        8,
+        11,
+        22,
+        4
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-011",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 173.78,
+      "stdInterval": 47.6,
+      "pauseCount": 2,
+      "rhythmVector": [
+        15,
+        3,
+        7,
+        11,
+        24
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-012",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 205.7,
+      "stdInterval": 51.12,
+      "pauseCount": 1,
+      "rhythmVector": [
+        12,
+        18,
+        17,
+        0,
+        13
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-013",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 170.1,
+      "stdInterval": 58.7,
+      "pauseCount": 1,
+      "rhythmVector": [
+        11,
+        24,
+        14,
+        11,
+        0
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-014",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 192.17,
+      "stdInterval": 66.53,
+      "pauseCount": 6,
+      "rhythmVector": [
+        1,
+        16,
+        12,
+        26,
+        5
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-015",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 161.23,
+      "stdInterval": 59.98,
+      "pauseCount": 4,
+      "rhythmVector": [
+        5,
+        16,
+        7,
+        18,
+        14
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-016",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 187.89,
+      "stdInterval": 26.23,
+      "pauseCount": 4,
+      "rhythmVector": [
+        7,
+        11,
+        22,
+        16,
+        4
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-017",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 192.27,
+      "stdInterval": 68.23,
+      "pauseCount": 1,
+      "rhythmVector": [
+        24,
+        4,
+        9,
+        10,
+        13
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-018",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 182.12,
+      "stdInterval": 64.38,
+      "pauseCount": 1,
+      "rhythmVector": [
+        20,
+        6,
+        13,
+        14,
+        7
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-019",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 186.94,
+      "stdInterval": 43.23,
+      "pauseCount": 0,
+      "rhythmVector": [
+        16,
+        8,
+        15,
+        3,
+        18
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-020",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 159.59,
+      "stdInterval": 61.13,
+      "pauseCount": 4,
+      "rhythmVector": [
+        16,
+        2,
+        14,
+        15,
+        13
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-021",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 207.37,
+      "stdInterval": 60.21,
+      "pauseCount": 2,
+      "rhythmVector": [
+        2,
+        26,
+        4,
+        26,
+        2
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-022",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 164.35,
+      "stdInterval": 61.64,
+      "pauseCount": 1,
+      "rhythmVector": [
+        6,
+        37,
+        11,
+        1,
+        5
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-023",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 192.73,
+      "stdInterval": 67.24,
+      "pauseCount": 2,
+      "rhythmVector": [
+        17,
+        6,
+        7,
+        14,
+        16
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-024",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 143.56,
+      "stdInterval": 34.86,
+      "pauseCount": 4,
+      "rhythmVector": [
+        12,
+        8,
+        12,
+        24,
+        4
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-025",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 163.94,
+      "stdInterval": 59.71,
+      "pauseCount": 0,
+      "rhythmVector": [
+        9,
+        20,
+        0,
+        16,
+        15
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-026",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 151.03,
+      "stdInterval": 52.93,
+      "pauseCount": 0,
+      "rhythmVector": [
+        7,
+        9,
+        22,
+        15,
+        7
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-027",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 130.62,
+      "stdInterval": 37.79,
+      "pauseCount": 2,
+      "rhythmVector": [
+        12,
+        5,
+        18,
+        19,
+        6
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-028",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 132.82,
+      "stdInterval": 53.86,
+      "pauseCount": 1,
+      "rhythmVector": [
+        7,
+        13,
+        7,
+        22,
+        11
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-029",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 120.55,
+      "stdInterval": 34.8,
+      "pauseCount": 4,
+      "rhythmVector": [
+        9,
+        4,
+        10,
+        0,
+        37
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-030",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 202.78,
+      "stdInterval": 34.99,
+      "pauseCount": 2,
+      "rhythmVector": [
+        9,
+        13,
+        12,
+        15,
+        11
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-031",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 180.24,
+      "stdInterval": 65.47,
+      "pauseCount": 0,
+      "rhythmVector": [
+        12,
+        16,
+        6,
+        7,
+        19
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-032",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 194.57,
+      "stdInterval": 29.62,
+      "pauseCount": 1,
+      "rhythmVector": [
+        8,
+        15,
+        17,
+        12,
+        8
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-033",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 204.52,
+      "stdInterval": 48.79,
+      "pauseCount": 1,
+      "rhythmVector": [
+        20,
+        15,
+        6,
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-034",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 142.14,
+      "stdInterval": 64.85,
+      "pauseCount": 0,
+      "rhythmVector": [
+        11,
+        14,
+        3,
+        21,
+        11
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-035",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 195.13,
+      "stdInterval": 33.97,
+      "pauseCount": 0,
+      "rhythmVector": [
+        6,
+        11,
+        14,
+        14,
+        15
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-036",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 151.29,
+      "stdInterval": 29.08,
+      "pauseCount": 2,
+      "rhythmVector": [
+        11,
+        8,
+        16,
+        4,
+        21
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-037",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 123.11,
+      "stdInterval": 63.51,
+      "pauseCount": 0,
+      "rhythmVector": [
+        8,
+        8,
+        7,
+        31,
+        6
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-038",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 211.3,
+      "stdInterval": 60.07,
+      "pauseCount": 6,
+      "rhythmVector": [
+        3,
+        5,
+        15,
+        19,
+        18
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-human-039",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 154.86,
+      "stdInterval": 69.33,
+      "pauseCount": 6,
+      "rhythmVector": [
+        15,
+        18,
+        2,
+        7,
+        18
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-000",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 108.04,
+      "stdInterval": 7.16,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-001",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 107.58,
+      "stdInterval": 3.66,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-002",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 102.79,
+      "stdInterval": 7.03,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-003",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 100.82,
+      "stdInterval": 5.74,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-004",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 100.34,
+      "stdInterval": 7.98,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-005",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 97.44,
+      "stdInterval": 9.95,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-006",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 102.92,
+      "stdInterval": 7.71,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-007",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 100.13,
+      "stdInterval": 4.62,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-008",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 105.67,
+      "stdInterval": 8.89,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-009",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 96.41,
+      "stdInterval": 3.25,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-010",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 105.05,
+      "stdInterval": 6.92,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-011",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 96.0,
+      "stdInterval": 6.13,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-012",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 98.84,
+      "stdInterval": 6.98,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-013",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 108.47,
+      "stdInterval": 5.31,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-014",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 105.19,
+      "stdInterval": 4.66,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-015",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 95.93,
+      "stdInterval": 8.23,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-016",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 97.63,
+      "stdInterval": 8.62,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-017",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 106.52,
+      "stdInterval": 6.39,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-018",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 108.11,
+      "stdInterval": 7.66,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-019",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 102.32,
+      "stdInterval": 6.64,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-020",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 109.49,
+      "stdInterval": 5.16,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-021",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 104.16,
+      "stdInterval": 5.66,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-022",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 96.38,
+      "stdInterval": 6.0,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-023",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 95.08,
+      "stdInterval": 4.48,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-024",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 95.22,
+      "stdInterval": 8.92,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-025",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 107.15,
+      "stdInterval": 7.15,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-026",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 105.66,
+      "stdInterval": 7.84,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-027",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 105.8,
+      "stdInterval": 3.51,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-028",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 98.08,
+      "stdInterval": 3.76,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-029",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 103.5,
+      "stdInterval": 4.56,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-030",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 97.0,
+      "stdInterval": 5.17,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-031",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 105.18,
+      "stdInterval": 3.04,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-032",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 105.28,
+      "stdInterval": 5.84,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-033",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 103.33,
+      "stdInterval": 9.03,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-034",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 95.01,
+      "stdInterval": 3.7,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-035",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 102.23,
+      "stdInterval": 3.11,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-036",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 98.09,
+      "stdInterval": 9.97,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-037",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 96.73,
+      "stdInterval": 6.11,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-038",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 101.92,
+      "stdInterval": 5.96,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-heldout",
+    "session_id": "synthetic-heldout-robot-039",
+    "seed": 999,
+    "stats": {
+      "averageInterval": 109.03,
+      "stdInterval": 4.82,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

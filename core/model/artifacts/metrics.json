@@ -1,0 +1,21 @@
+{
+  "scope": "synthetic-data baseline metrics (not validated against real human typing)",
+  "train_n": 240,
+  "heldout_n": 80,
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "confusion_matrix": [
+    [
+      40,
+      0
+    ],
+    [
+      0,
+      40
+    ]
+  ],
+  "random_state": 42,
+  "train_seed": 42,
+  "heldout_seed": 999
+}
