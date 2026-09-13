@@ -23,7 +23,7 @@
     "@octokit/webhooks": "^12.0.0",
     "@vercel/kv": "^3.0.0",
     "commander": "^14.0.2",
-    "cors": "^2.8.5",
+    "cors": "^2.8.6",
     "escape-html": "^1.0.3",
     "express": "^5.1.0",
     "express-rate-limit": "^8.2.1",
