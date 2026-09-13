@@ -71,7 +71,13 @@ jobs:
         run: git tag -l | tail -10
       - name: Configure git for version bump
         uses: ./.github/actions/git-config
+      # Mutating steps run only on non-PR events. On `pull_request` events the
+      # checkout is a merge ref (detached commit), not a branch, so rebuilding
+      # and pushing `version-bump` from here resets the PR head to `main` and
+      # destroys the version-change commit, silently emptying the PR.
       - name: Calculate and apply version bump
+        id: bump
+        if: github.event_name != 'pull_request'
         run: |
           git checkout -b version-bump
           latest_tag=$(git tag | grep -E '^v?[0-9]+\.[0-9]+\.[0-9]+$' \
@@ -89,13 +95,30 @@ jobs:
           git add VERSION package.json
           if git diff --staged --quiet; then
             echo "No changes to version files"
+            echo "created=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "chore: bump version to $next_version"
+            echo "created=true" >> "$GITHUB_OUTPUT"
           fi
       - name: Create version bump PR
+        if: github.event_name != 'pull_request'
         uses: ./.github/actions/create-version-pr
         with:
           version: ${{ env.next_version }}
+      - name: Validate version-bump PR is not empty
+        if: github.event_name != 'pull_request' && steps.bump.outputs.created == 'true'
+        run: |
+          git fetch origin version-bump main
+          ahead=$(git rev-list --count origin/main..origin/version-bump)
+          if [ "$ahead" -eq 0 ]; then
+            echo "::error::version-bump branch is not ahead of main; the version-bump PR would be empty. Refusing to leave an empty PR."
+            exit 1
+          fi
+          if git diff --quiet origin/main...origin/version-bump -- VERSION package.json; then
+            echo "::error::version-bump PR contains no VERSION/package.json changes."
+            exit 1
+          fi
+          echo "version-bump PR OK: ahead by $ahead commit(s) with version file changes."
 
   # Job to notify on failures across all maintenance jobs
   # Runs only if any dependent job fails, for alerting maintainers
