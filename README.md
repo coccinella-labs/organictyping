@@ -55,6 +55,8 @@ Timing metadata only, explicit opt-in. Aggregated rhythm vectors retained 12 mon
 
 ## Example
 
+A single keypress carries timing with it:
+
 ```ts
 const event = {
   key: 't',
@@ -64,7 +66,25 @@ const event = {
 };
 ```
 
-Normalized intervals feed `calculateStats` → `organic-encoder.py` → `verifier.py` (`Human` / `AI` heuristic when untrained).
+A more subtle pattern appears when short pauses combine with minor backspaces. This sequence reflects hesitation and rephrasing, shaping a richer organic signature:
+
+```ts
+[
+  { key: 'h', pauseBefore: 210 },
+  { key: 'e', pauseBefore: 95 },
+  { key: 'l', pauseBefore: 82 },
+  { key: 'l', pauseBefore: 400 },
+  { key: 'Backspace' },
+  { key: 'l', pauseBefore: 180 },
+  { key: 'o', pauseBefore: 70 },
+];
+```
+
+These timing signals become inputs to an encoder, which embeds them into a latent representation. The vector lets a verifier score human rhythm against generated text, and it lets a generator reconstruct the writer cadence. The current `verifier.py` is a heuristic baseline until trained on larger datasets.
+
+A similar process occurs with long form text. Extended pauses between sentences, shifts in pacing during complex thoughts, and recurring phrasing habits all contribute to a stable organic profile that evolves over time.
+
+In code, normalized intervals feed `calculateStats` to `organic-encoder.py` to `verifier.py` (`Human` or `AI` when untrained).
 
 ## References
 
