@@ -30,6 +30,9 @@ Thumbs.db
 
 # GitHub App
 signatures.json
+*.pem
 
 # Docker
 .dockerignore
+.vercel
+.env*

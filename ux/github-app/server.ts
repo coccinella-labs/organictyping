@@ -24,6 +24,8 @@ type PR = {
 const app = express();
 const port = process.env.PORT || 3000;
 
+app.set('trust proxy', 1);
+
 // Encryption key for data at rest (use a secure password in ENCRYPTION_KEY and salt in ENCRYPTION_SALT)
 const encryptionKeyEnv = process.env.ENCRYPTION_KEY;
 if (!encryptionKeyEnv)
@@ -180,7 +182,7 @@ const webhooks = new Webhooks({
 webhooks.on('pull_request.opened', (event) => handlePullRequest(event, false));
 webhooks.on('pull_request.edited', (event) => handlePullRequest(event, true));
 
-app.use('/webhook', createNodeMiddleware(webhooks, { path: '/webhook' }));
+app.use(createNodeMiddleware(webhooks, { path: '/webhook' }));
 
 app.get('/', (req: Request, res: Response) => {
   res.send('Organic Typing GitHub App');
