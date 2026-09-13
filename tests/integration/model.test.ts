@@ -40,6 +40,23 @@ describe('Model Integration (synthetic-data baseline, not human-validated)', () 
     expect(v1).not.toEqual([100, 10, 0, 0, 1, 0, 0, 0]);
   });
 
+  it('should fail closed when the scaler artifact is missing', () => {
+    const code = [
+      "import importlib.util",
+      "spec = importlib.util.spec_from_file_location('enc', 'core/model/organic-encoder.py')",
+      "mod = importlib.util.module_from_spec(spec); spec.loader.exec_module(mod)",
+      "try:",
+      "    mod.load_scaler('/nonexistent/scaler.json')",
+      "    print('NO-RAISE')",
+      "except RuntimeError:",
+      "    print('RAISED')",
+    ].join('\n');
+    const out = execSync(`${pythonCmd} -c "${code}"`, { encoding: 'utf-8' })
+      .toString()
+      .trim();
+    expect(out).toBe('RAISED');
+  });
+
   it('should load committed artifacts', () => {
     expect(fs.existsSync('core/model/artifacts/scaler.json')).toBe(true);
     expect(fs.existsSync('core/model/artifacts/verifier.joblib')).toBe(true);

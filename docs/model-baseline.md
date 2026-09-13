@@ -28,8 +28,10 @@ biometric validity.
 - `core/model/train.py` fits the scaler on train only, trains the forest,
   evaluates on held-out, writes `core/model/artifacts/scaler.json`,
   `verifier.joblib`, `metrics.json`.
-- Inference loads artifacts: `organic-encoder.py` applies the fitted scaler;
-  `verifier.py` classifies scaled vectors. Legacy heuristic is available only
+- Inference loads artifacts: `organic-encoder.py` applies the fitted scaler and
+  fails closed with `RuntimeError` when `artifacts/scaler.json` is missing;
+  `verifier.py` classifies scaled vectors and fails closed without its model.
+  Legacy heuristic is available only
   via `verifier.py --heuristic` and must not be cited as model accuracy.
 
 ## Synthetic-data baseline metrics
