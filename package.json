@@ -31,7 +31,7 @@
   },
   "optionalDependencies": {
     "evdev": "^0.3.0",
-    "uiohook-napi": "^1.5.4"
+    "uiohook-napi": "^1.5.5"
   },
   "devDependencies": {
     "@commitlint/cli": "^20.1.0",
