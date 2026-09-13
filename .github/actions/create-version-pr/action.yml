@@ -30,4 +30,3 @@ runs:
           ```
         branch: version-bump
         base: main
-        update-pull-request-branch: true
