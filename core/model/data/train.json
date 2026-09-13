@@ -1,0 +1,4322 @@
+[
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-000",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 183.94,
+      "stdInterval": 26.13,
+      "pauseCount": 2,
+      "rhythmVector": [
+        9,
+        5,
+        3,
+        25,
+        18
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-001",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 179.05,
+      "stdInterval": 26.43,
+      "pauseCount": 0,
+      "rhythmVector": [
+        9,
+        19,
+        1,
+        7,
+        24
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-002",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 174.49,
+      "stdInterval": 34.92,
+      "pauseCount": 2,
+      "rhythmVector": [
+        18,
+        0,
+        18,
+        16,
+        8
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-003",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 135.55,
+      "stdInterval": 68.07,
+      "pauseCount": 3,
+      "rhythmVector": [
+        4,
+        16,
+        15,
+        14,
+        11
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-004",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 124.35,
+      "stdInterval": 45.67,
+      "pauseCount": 0,
+      "rhythmVector": [
+        17,
+        7,
+        10,
+        15,
+        11
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-005",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 206.17,
+      "stdInterval": 50.98,
+      "pauseCount": 0,
+      "rhythmVector": [
+        3,
+        16,
+        20,
+        5,
+        16
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-006",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 130.1,
+      "stdInterval": 37.51,
+      "pauseCount": 3,
+      "rhythmVector": [
+        4,
+        8,
+        16,
+        16,
+        16
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-007",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 127.14,
+      "stdInterval": 53.57,
+      "pauseCount": 1,
+      "rhythmVector": [
+        4,
+        8,
+        22,
+        14,
+        12
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-008",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 188.46,
+      "stdInterval": 62.93,
+      "pauseCount": 0,
+      "rhythmVector": [
+        13,
+        2,
+        18,
+        15,
+        12
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-009",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 214.29,
+      "stdInterval": 64.44,
+      "pauseCount": 3,
+      "rhythmVector": [
+        5,
+        13,
+        22,
+        16,
+        4
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-010",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 133.96,
+      "stdInterval": 58.52,
+      "pauseCount": 2,
+      "rhythmVector": [
+        15,
+        8,
+        11,
+        7,
+        19
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-011",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 133.83,
+      "stdInterval": 47.21,
+      "pauseCount": 0,
+      "rhythmVector": [
+        20,
+        4,
+        4,
+        17,
+        15
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-012",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 158.48,
+      "stdInterval": 51.81,
+      "pauseCount": 6,
+      "rhythmVector": [
+        10,
+        19,
+        17,
+        0,
+        14
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-013",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 188.17,
+      "stdInterval": 49.16,
+      "pauseCount": 2,
+      "rhythmVector": [
+        30,
+        13,
+        11,
+        6,
+        0
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-014",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 192.21,
+      "stdInterval": 57.39,
+      "pauseCount": 1,
+      "rhythmVector": [
+        12,
+        2,
+        14,
+        20,
+        12
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-015",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 139.89,
+      "stdInterval": 41.83,
+      "pauseCount": 1,
+      "rhythmVector": [
+        15,
+        21,
+        15,
+        0,
+        9
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-016",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 121.95,
+      "stdInterval": 66.81,
+      "pauseCount": 2,
+      "rhythmVector": [
+        7,
+        8,
+        18,
+        3,
+        24
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-017",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 201.6,
+      "stdInterval": 69.01,
+      "pauseCount": 1,
+      "rhythmVector": [
+        4,
+        12,
+        14,
+        7,
+        23
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-018",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 162.31,
+      "stdInterval": 34.53,
+      "pauseCount": 1,
+      "rhythmVector": [
+        14,
+        8,
+        13,
+        7,
+        18
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-019",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 165.15,
+      "stdInterval": 36.16,
+      "pauseCount": 0,
+      "rhythmVector": [
+        14,
+        24,
+        10,
+        9,
+        3
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-020",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 183.11,
+      "stdInterval": 35.3,
+      "pauseCount": 0,
+      "rhythmVector": [
+        25,
+        2,
+        7,
+        20,
+        6
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-021",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 133.23,
+      "stdInterval": 67.1,
+      "pauseCount": 6,
+      "rhythmVector": [
+        8,
+        15,
+        13,
+        3,
+        21
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-022",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 155.43,
+      "stdInterval": 43.5,
+      "pauseCount": 0,
+      "rhythmVector": [
+        16,
+        24,
+        2,
+        10,
+        8
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-023",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 206.17,
+      "stdInterval": 36.19,
+      "pauseCount": 1,
+      "rhythmVector": [
+        14,
+        4,
+        5,
+        13,
+        24
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-024",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 127.54,
+      "stdInterval": 61.36,
+      "pauseCount": 0,
+      "rhythmVector": [
+        1,
+        16,
+        13,
+        15,
+        15
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-025",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 204.87,
+      "stdInterval": 32.48,
+      "pauseCount": 6,
+      "rhythmVector": [
+        13,
+        21,
+        22,
+        4,
+        0
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-026",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 159.04,
+      "stdInterval": 66.69,
+      "pauseCount": 6,
+      "rhythmVector": [
+        5,
+        13,
+        14,
+        15,
+        13
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-027",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 168.67,
+      "stdInterval": 33.55,
+      "pauseCount": 1,
+      "rhythmVector": [
+        20,
+        12,
+        11,
+        16,
+        1
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-028",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 178.42,
+      "stdInterval": 47.63,
+      "pauseCount": 1,
+      "rhythmVector": [
+        1,
+        20,
+        33,
+        3,
+        3
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-029",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 206.18,
+      "stdInterval": 43.17,
+      "pauseCount": 1,
+      "rhythmVector": [
+        17,
+        1,
+        3,
+        21,
+        18
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-030",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 151.64,
+      "stdInterval": 36.73,
+      "pauseCount": 3,
+      "rhythmVector": [
+        8,
+        12,
+        21,
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-031",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 195.19,
+      "stdInterval": 28.26,
+      "pauseCount": 6,
+      "rhythmVector": [
+        15,
+        15,
+        3,
+        14,
+        13
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-032",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 133.25,
+      "stdInterval": 40.71,
+      "pauseCount": 0,
+      "rhythmVector": [
+        18,
+        8,
+        3,
+        17,
+        14
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-033",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 181.17,
+      "stdInterval": 69.43,
+      "pauseCount": 0,
+      "rhythmVector": [
+        12,
+        11,
+        18,
+        2,
+        17
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-034",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 146.45,
+      "stdInterval": 65.04,
+      "pauseCount": 1,
+      "rhythmVector": [
+        6,
+        15,
+        18,
+        5,
+        16
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-035",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 146.4,
+      "stdInterval": 46.98,
+      "pauseCount": 0,
+      "rhythmVector": [
+        3,
+        16,
+        11,
+        0,
+        30
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-036",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 183.71,
+      "stdInterval": 36.79,
+      "pauseCount": 6,
+      "rhythmVector": [
+        18,
+        13,
+        0,
+        2,
+        27
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-037",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 210.39,
+      "stdInterval": 49.55,
+      "pauseCount": 3,
+      "rhythmVector": [
+        17,
+        4,
+        4,
+        9,
+        26
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-038",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 199.61,
+      "stdInterval": 63.73,
+      "pauseCount": 3,
+      "rhythmVector": [
+        5,
+        7,
+        3,
+        21,
+        24
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-039",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 160.64,
+      "stdInterval": 52.93,
+      "pauseCount": 1,
+      "rhythmVector": [
+        24,
+        6,
+        4,
+        21,
+        5
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-040",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 161.23,
+      "stdInterval": 33.07,
+      "pauseCount": 3,
+      "rhythmVector": [
+        17,
+        9,
+        14,
+        15,
+        5
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-041",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 135.92,
+      "stdInterval": 56.56,
+      "pauseCount": 4,
+      "rhythmVector": [
+        16,
+        16,
+        4,
+        15,
+        9
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-042",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 150.52,
+      "stdInterval": 60.79,
+      "pauseCount": 1,
+      "rhythmVector": [
+        8,
+        24,
+        15,
+        10,
+        3
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-043",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 197.33,
+      "stdInterval": 40.8,
+      "pauseCount": 4,
+      "rhythmVector": [
+        15,
+        18,
+        7,
+        1,
+        19
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-044",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 146.12,
+      "stdInterval": 51.13,
+      "pauseCount": 2,
+      "rhythmVector": [
+        2,
+        16,
+        9,
+        21,
+        12
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-045",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 218.42,
+      "stdInterval": 30.2,
+      "pauseCount": 1,
+      "rhythmVector": [
+        6,
+        18,
+        0,
+        23,
+        13
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-046",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 191.94,
+      "stdInterval": 58.39,
+      "pauseCount": 1,
+      "rhythmVector": [
+        13,
+        2,
+        23,
+        11,
+        11
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-047",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 204.8,
+      "stdInterval": 57.39,
+      "pauseCount": 2,
+      "rhythmVector": [
+        11,
+        15,
+        7,
+        15,
+        12
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-048",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 139.18,
+      "stdInterval": 54.92,
+      "pauseCount": 4,
+      "rhythmVector": [
+        13,
+        18,
+        12,
+        6,
+        11
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-049",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 120.04,
+      "stdInterval": 37.91,
+      "pauseCount": 4,
+      "rhythmVector": [
+        17,
+        13,
+        7,
+        9,
+        14
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-050",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 171.12,
+      "stdInterval": 60.72,
+      "pauseCount": 1,
+      "rhythmVector": [
+        18,
+        7,
+        17,
+        16,
+        2
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-051",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 215.2,
+      "stdInterval": 35.57,
+      "pauseCount": 2,
+      "rhythmVector": [
+        12,
+        10,
+        1,
+        13,
+        24
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-052",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 204.97,
+      "stdInterval": 28.28,
+      "pauseCount": 4,
+      "rhythmVector": [
+        17,
+        12,
+        15,
+        8,
+        8
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-053",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 134.76,
+      "stdInterval": 55.94,
+      "pauseCount": 0,
+      "rhythmVector": [
+        17,
+        4,
+        16,
+        14,
+        9
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-054",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 175.74,
+      "stdInterval": 66.29,
+      "pauseCount": 0,
+      "rhythmVector": [
+        8,
+        14,
+        11,
+        17,
+        10
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-055",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 215.0,
+      "stdInterval": 65.11,
+      "pauseCount": 4,
+      "rhythmVector": [
+        15,
+        9,
+        15,
+        13,
+        8
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-056",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 145.92,
+      "stdInterval": 36.13,
+      "pauseCount": 2,
+      "rhythmVector": [
+        20,
+        14,
+        17,
+        7,
+        2
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-057",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 148.57,
+      "stdInterval": 37.23,
+      "pauseCount": 3,
+      "rhythmVector": [
+        32,
+        3,
+        5,
+        14,
+        6
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-058",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 141.4,
+      "stdInterval": 43.67,
+      "pauseCount": 3,
+      "rhythmVector": [
+        13,
+        10,
+        5,
+        10,
+        22
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-059",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 178.41,
+      "stdInterval": 56.3,
+      "pauseCount": 4,
+      "rhythmVector": [
+        9,
+        19,
+        6,
+        8,
+        18
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-060",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 203.57,
+      "stdInterval": 49.22,
+      "pauseCount": 1,
+      "rhythmVector": [
+        13,
+        7,
+        13,
+        10,
+        17
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-061",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 199.81,
+      "stdInterval": 57.59,
+      "pauseCount": 6,
+      "rhythmVector": [
+        14,
+        15,
+        8,
+        14,
+        9
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-062",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 186.3,
+      "stdInterval": 28.78,
+      "pauseCount": 4,
+      "rhythmVector": [
+        8,
+        22,
+        2,
+        18,
+        10
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-063",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 152.68,
+      "stdInterval": 59.26,
+      "pauseCount": 4,
+      "rhythmVector": [
+        5,
+        19,
+        9,
+        17,
+        10
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-064",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 194.9,
+      "stdInterval": 27.34,
+      "pauseCount": 3,
+      "rhythmVector": [
+        11,
+        3,
+        43,
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-065",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 144.73,
+      "stdInterval": 62.77,
+      "pauseCount": 1,
+      "rhythmVector": [
+        7,
+        13,
+        3,
+        25,
+        12
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-066",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 145.62,
+      "stdInterval": 41.6,
+      "pauseCount": 0,
+      "rhythmVector": [
+        16,
+        4,
+        7,
+        13,
+        20
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-067",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 177.58,
+      "stdInterval": 65.86,
+      "pauseCount": 4,
+      "rhythmVector": [
+        9,
+        17,
+        2,
+        17,
+        15
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-068",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 130.19,
+      "stdInterval": 59.76,
+      "pauseCount": 0,
+      "rhythmVector": [
+        19,
+        13,
+        1,
+        12,
+        15
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-069",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 126.9,
+      "stdInterval": 54.14,
+      "pauseCount": 0,
+      "rhythmVector": [
+        15,
+        15,
+        2,
+        17,
+        11
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-070",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 202.87,
+      "stdInterval": 56.83,
+      "pauseCount": 4,
+      "rhythmVector": [
+        3,
+        11,
+        14,
+        13,
+        19
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-071",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 197.46,
+      "stdInterval": 45.92,
+      "pauseCount": 2,
+      "rhythmVector": [
+        9,
+        7,
+        25,
+        7,
+        12
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-072",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 195.05,
+      "stdInterval": 50.64,
+      "pauseCount": 4,
+      "rhythmVector": [
+        9,
+        15,
+        10,
+        15,
+        11
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-073",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 145.84,
+      "stdInterval": 37.58,
+      "pauseCount": 2,
+      "rhythmVector": [
+        17,
+        16,
+        6,
+        8,
+        13
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-074",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 175.52,
+      "stdInterval": 35.81,
+      "pauseCount": 6,
+      "rhythmVector": [
+        18,
+        13,
+        21,
+        2,
+        6
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-075",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 189.18,
+      "stdInterval": 38.78,
+      "pauseCount": 3,
+      "rhythmVector": [
+        11,
+        13,
+        10,
+        18,
+        8
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-076",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 190.29,
+      "stdInterval": 37.19,
+      "pauseCount": 2,
+      "rhythmVector": [
+        5,
+        15,
+        6,
+        15,
+        19
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-077",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 189.02,
+      "stdInterval": 33.62,
+      "pauseCount": 6,
+      "rhythmVector": [
+        6,
+        11,
+        14,
+        11,
+        18
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-078",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 203.26,
+      "stdInterval": 38.33,
+      "pauseCount": 3,
+      "rhythmVector": [
+        6,
+        0,
+        16,
+        8,
+        30
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-079",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 175.34,
+      "stdInterval": 56.38,
+      "pauseCount": 1,
+      "rhythmVector": [
+        22,
+        25,
+        3,
+        0,
+        10
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-080",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 167.87,
+      "stdInterval": 40.33,
+      "pauseCount": 0,
+      "rhythmVector": [
+        8,
+        29,
+        4,
+        2,
+        17
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-081",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 177.7,
+      "stdInterval": 55.89,
+      "pauseCount": 1,
+      "rhythmVector": [
+        4,
+        16,
+        9,
+        28,
+        3
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-082",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 196.44,
+      "stdInterval": 52.28,
+      "pauseCount": 1,
+      "rhythmVector": [
+        16,
+        8,
+        18,
+        6,
+        12
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-083",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 162.88,
+      "stdInterval": 50.59,
+      "pauseCount": 0,
+      "rhythmVector": [
+        13,
+        16,
+        21,
+        5,
+        5
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-084",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 186.04,
+      "stdInterval": 32.07,
+      "pauseCount": 1,
+      "rhythmVector": [
+        15,
+        4,
+        11,
+        18,
+        12
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-085",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 123.26,
+      "stdInterval": 37.96,
+      "pauseCount": 2,
+      "rhythmVector": [
+        11,
+        8,
+        12,
+        16,
+        13
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-086",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 182.51,
+      "stdInterval": 54.75,
+      "pauseCount": 1,
+      "rhythmVector": [
+        7,
+        10,
+        12,
+        16,
+        15
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-087",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 127.14,
+      "stdInterval": 32.47,
+      "pauseCount": 2,
+      "rhythmVector": [
+        11,
+        15,
+        17,
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-088",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 150.41,
+      "stdInterval": 43.11,
+      "pauseCount": 2,
+      "rhythmVector": [
+        19,
+        19,
+        3,
+        2,
+        17
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-089",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 152.23,
+      "stdInterval": 36.27,
+      "pauseCount": 0,
+      "rhythmVector": [
+        5,
+        17,
+        22,
+        15,
+        1
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-090",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 196.48,
+      "stdInterval": 61.96,
+      "pauseCount": 0,
+      "rhythmVector": [
+        21,
+        5,
+        14,
+        12,
+        8
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-091",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 219.69,
+      "stdInterval": 44.61,
+      "pauseCount": 6,
+      "rhythmVector": [
+        26,
+        12,
+        11,
+        8,
+        3
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-092",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 136.08,
+      "stdInterval": 43.52,
+      "pauseCount": 6,
+      "rhythmVector": [
+        5,
+        19,
+        16,
+        11,
+        9
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-093",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 151.45,
+      "stdInterval": 39.55,
+      "pauseCount": 4,
+      "rhythmVector": [
+        18,
+        16,
+        0,
+        17,
+        9
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-094",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 125.42,
+      "stdInterval": 48.33,
+      "pauseCount": 6,
+      "rhythmVector": [
+        12,
+        15,
+        4,
+        11,
+        18
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-095",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 163.81,
+      "stdInterval": 56.42,
+      "pauseCount": 0,
+      "rhythmVector": [
+        1,
+        15,
+        19,
+        17,
+        8
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-096",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 121.37,
+      "stdInterval": 43.36,
+      "pauseCount": 1,
+      "rhythmVector": [
+        18,
+        17,
+        8,
+        2,
+        15
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-097",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 169.84,
+      "stdInterval": 57.25,
+      "pauseCount": 2,
+      "rhythmVector": [
+        13,
+        15,
+        14,
+        14,
+        4
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-098",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 139.06,
+      "stdInterval": 51.97,
+      "pauseCount": 1,
+      "rhythmVector": [
+        16,
+        5,
+        14,
+        8,
+        17
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-099",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 170.77,
+      "stdInterval": 61.92,
+      "pauseCount": 2,
+      "rhythmVector": [
+        12,
+        14,
+        9,
+        11,
+        14
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-100",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 164.65,
+      "stdInterval": 46.8,
+      "pauseCount": 3,
+      "rhythmVector": [
+        17,
+        16,
+        13,
+        9,
+        5
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-101",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 189.75,
+      "stdInterval": 50.73,
+      "pauseCount": 1,
+      "rhythmVector": [
+        18,
+        8,
+        6,
+        10,
+        18
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-102",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 158.12,
+      "stdInterval": 69.48,
+      "pauseCount": 1,
+      "rhythmVector": [
+        12,
+        1,
+        12,
+        14,
+        21
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-103",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 207.42,
+      "stdInterval": 44.81,
+      "pauseCount": 6,
+      "rhythmVector": [
+        1,
+        4,
+        25,
+        28,
+        2
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-104",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 198.15,
+      "stdInterval": 36.93,
+      "pauseCount": 4,
+      "rhythmVector": [
+        12,
+        14,
+        14,
+        14,
+        6
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-105",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 151.67,
+      "stdInterval": 57.34,
+      "pauseCount": 6,
+      "rhythmVector": [
+        20,
+        1,
+        2,
+        15,
+        22
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-106",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 219.74,
+      "stdInterval": 58.6,
+      "pauseCount": 4,
+      "rhythmVector": [
+        21,
+        17,
+        16,
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-107",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 149.95,
+      "stdInterval": 26.3,
+      "pauseCount": 3,
+      "rhythmVector": [
+        22,
+        8,
+        11,
+        4,
+        15
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-108",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 176.59,
+      "stdInterval": 60.66,
+      "pauseCount": 1,
+      "rhythmVector": [
+        4,
+        16,
+        10,
+        17,
+        13
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-109",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 178.32,
+      "stdInterval": 35.45,
+      "pauseCount": 2,
+      "rhythmVector": [
+        11,
+        14,
+        19,
+        10,
+        6
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-110",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 174.66,
+      "stdInterval": 28.32,
+      "pauseCount": 3,
+      "rhythmVector": [
+        18,
+        5,
+        17,
+        12,
+        8
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-111",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 150.21,
+      "stdInterval": 69.97,
+      "pauseCount": 6,
+      "rhythmVector": [
+        3,
+        12,
+        12,
+        10,
+        23
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-112",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 122.19,
+      "stdInterval": 62.35,
+      "pauseCount": 4,
+      "rhythmVector": [
+        7,
+        15,
+        18,
+        19,
+        1
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-113",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 180.64,
+      "stdInterval": 47.35,
+      "pauseCount": 2,
+      "rhythmVector": [
+        21,
+        6,
+        22,
+        6,
+        5
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-114",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 145.06,
+      "stdInterval": 59.0,
+      "pauseCount": 1,
+      "rhythmVector": [
+        13,
+        19,
+        13,
+        6,
+        9
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-115",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 177.96,
+      "stdInterval": 57.96,
+      "pauseCount": 0,
+      "rhythmVector": [
+        21,
+        7,
+        9,
+        5,
+        18
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-116",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 207.65,
+      "stdInterval": 41.46,
+      "pauseCount": 2,
+      "rhythmVector": [
+        16,
+        5,
+        15,
+        9,
+        15
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-117",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 194.66,
+      "stdInterval": 40.24,
+      "pauseCount": 0,
+      "rhythmVector": [
+        13,
+        2,
+        21,
+        6,
+        18
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-118",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 187.44,
+      "stdInterval": 42.88,
+      "pauseCount": 3,
+      "rhythmVector": [
+        4,
+        19,
+        13,
+        6,
+        18
+      ]
+    }
+  },
+  {
+    "label": "human-like-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-human-119",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 194.9,
+      "stdInterval": 36.8,
+      "pauseCount": 4,
+      "rhythmVector": [
+        23,
+        26,
+        3,
+        7,
+        1
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-000",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 108.26,
+      "stdInterval": 6.93,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-001",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 108.73,
+      "stdInterval": 4.55,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-002",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 95.95,
+      "stdInterval": 8.77,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-003",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 108.64,
+      "stdInterval": 5.12,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-004",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 101.12,
+      "stdInterval": 3.98,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-005",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 109.19,
+      "stdInterval": 5.13,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-006",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 102.39,
+      "stdInterval": 3.68,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-007",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 108.31,
+      "stdInterval": 3.95,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-008",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 101.8,
+      "stdInterval": 7.69,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-009",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 106.15,
+      "stdInterval": 9.62,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-010",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 101.29,
+      "stdInterval": 8.2,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-011",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 97.32,
+      "stdInterval": 5.9,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-012",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 96.49,
+      "stdInterval": 6.43,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-013",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 101.12,
+      "stdInterval": 9.66,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-014",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 95.49,
+      "stdInterval": 5.59,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-015",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 101.65,
+      "stdInterval": 9.65,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-016",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 107.83,
+      "stdInterval": 3.7,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-017",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 105.29,
+      "stdInterval": 6.81,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-018",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 109.67,
+      "stdInterval": 5.51,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-019",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 100.97,
+      "stdInterval": 4.33,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-020",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 96.83,
+      "stdInterval": 8.94,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-021",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 101.82,
+      "stdInterval": 7.64,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-022",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 104.63,
+      "stdInterval": 7.18,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-023",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 95.32,
+      "stdInterval": 8.51,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-024",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 98.65,
+      "stdInterval": 3.88,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-025",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 103.47,
+      "stdInterval": 3.48,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-026",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 106.48,
+      "stdInterval": 4.45,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-027",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 98.24,
+      "stdInterval": 9.09,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-028",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 99.93,
+      "stdInterval": 4.03,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-029",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 108.51,
+      "stdInterval": 3.02,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-030",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 107.88,
+      "stdInterval": 4.01,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-031",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 96.95,
+      "stdInterval": 4.75,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-032",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 97.62,
+      "stdInterval": 7.63,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-033",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 95.39,
+      "stdInterval": 3.1,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-034",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 106.85,
+      "stdInterval": 4.67,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-035",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 99.86,
+      "stdInterval": 4.22,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-036",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 95.79,
+      "stdInterval": 8.19,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-037",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 102.89,
+      "stdInterval": 8.22,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-038",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 102.14,
+      "stdInterval": 8.45,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-039",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 102.7,
+      "stdInterval": 3.76,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-040",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 102.56,
+      "stdInterval": 9.62,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-041",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 95.65,
+      "stdInterval": 8.48,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-042",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 108.0,
+      "stdInterval": 6.65,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-043",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 101.87,
+      "stdInterval": 9.75,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-044",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 95.91,
+      "stdInterval": 6.35,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-045",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 101.02,
+      "stdInterval": 7.8,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-046",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 102.35,
+      "stdInterval": 9.37,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-047",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 96.1,
+      "stdInterval": 3.57,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-048",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 104.12,
+      "stdInterval": 3.46,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-049",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 99.13,
+      "stdInterval": 7.43,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-050",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 103.23,
+      "stdInterval": 5.28,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-051",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 109.92,
+      "stdInterval": 6.71,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-052",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 101.81,
+      "stdInterval": 7.24,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-053",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 96.49,
+      "stdInterval": 7.91,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-054",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 107.79,
+      "stdInterval": 7.56,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-055",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 106.53,
+      "stdInterval": 8.05,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-056",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 98.23,
+      "stdInterval": 6.16,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-057",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 98.43,
+      "stdInterval": 5.37,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-058",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 101.8,
+      "stdInterval": 5.91,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-059",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 96.43,
+      "stdInterval": 5.99,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-060",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 104.98,
+      "stdInterval": 5.62,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-061",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 97.29,
+      "stdInterval": 9.46,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-062",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 96.01,
+      "stdInterval": 8.82,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-063",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 96.4,
+      "stdInterval": 3.68,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-064",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 106.08,
+      "stdInterval": 8.68,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-065",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 103.35,
+      "stdInterval": 7.11,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-066",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 103.42,
+      "stdInterval": 5.31,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-067",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 96.83,
+      "stdInterval": 5.48,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-068",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 104.98,
+      "stdInterval": 8.25,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-069",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 108.02,
+      "stdInterval": 8.05,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-070",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 109.53,
+      "stdInterval": 7.2,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-071",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 100.27,
+      "stdInterval": 7.05,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-072",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 98.19,
+      "stdInterval": 7.6,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-073",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 98.36,
+      "stdInterval": 3.76,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-074",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 107.68,
+      "stdInterval": 5.57,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-075",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 106.44,
+      "stdInterval": 7.02,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-076",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 107.11,
+      "stdInterval": 8.92,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-077",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 109.62,
+      "stdInterval": 8.73,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-078",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 104.2,
+      "stdInterval": 7.5,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-079",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 95.39,
+      "stdInterval": 9.5,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-080",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 107.44,
+      "stdInterval": 4.87,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-081",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 97.71,
+      "stdInterval": 7.92,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-082",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 99.63,
+      "stdInterval": 5.38,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-083",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 95.09,
+      "stdInterval": 9.09,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-084",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 103.49,
+      "stdInterval": 5.81,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-085",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 97.13,
+      "stdInterval": 7.43,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-086",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 95.46,
+      "stdInterval": 8.22,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-087",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 98.23,
+      "stdInterval": 5.94,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-088",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 100.11,
+      "stdInterval": 5.59,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-089",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 105.82,
+      "stdInterval": 8.44,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-090",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 103.51,
+      "stdInterval": 3.59,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-091",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 95.79,
+      "stdInterval": 4.1,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-092",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 104.27,
+      "stdInterval": 7.72,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-093",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 99.08,
+      "stdInterval": 7.63,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-094",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 102.28,
+      "stdInterval": 6.09,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-095",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 99.1,
+      "stdInterval": 8.28,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-096",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 96.71,
+      "stdInterval": 6.01,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-097",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 99.25,
+      "stdInterval": 7.75,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-098",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 102.3,
+      "stdInterval": 7.67,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-099",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 95.68,
+      "stdInterval": 5.77,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-100",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 103.99,
+      "stdInterval": 3.05,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-101",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 99.52,
+      "stdInterval": 4.48,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-102",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 97.06,
+      "stdInterval": 4.79,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-103",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 99.92,
+      "stdInterval": 3.05,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-104",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 106.21,
+      "stdInterval": 4.23,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-105",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 100.7,
+      "stdInterval": 7.93,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-106",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 102.5,
+      "stdInterval": 8.83,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-107",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 107.09,
+      "stdInterval": 3.5,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-108",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 107.93,
+      "stdInterval": 3.3,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-109",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 95.28,
+      "stdInterval": 9.45,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-110",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 107.93,
+      "stdInterval": 7.03,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-111",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 103.6,
+      "stdInterval": 7.97,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-112",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 101.27,
+      "stdInterval": 3.81,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-113",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 95.31,
+      "stdInterval": 5.27,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-114",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 107.02,
+      "stdInterval": 7.33,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-115",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 107.48,
+      "stdInterval": 9.44,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-116",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 96.32,
+      "stdInterval": 8.91,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-117",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 98.65,
+      "stdInterval": 7.12,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-118",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 102.86,
+      "stdInterval": 5.77,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "label": "robotic-synthetic",
+    "source": "synthetic-train",
+    "session_id": "synthetic-train-robot-119",
+    "seed": 42,
+    "stats": {
+      "averageInterval": 99.65,
+      "stdInterval": 5.38,
+      "pauseCount": 0,
+      "rhythmVector": [
+        0,
+        60,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]
