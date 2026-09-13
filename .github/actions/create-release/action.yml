@@ -26,6 +26,6 @@ runs:
       with:
         tag_name: ${{ env.TAG }}
         name: Release ${{ env.TAG }}
-        body: Automated release for version ${{ env.TAG }}
+        generate_release_notes: true
         draft: false
         prerelease: false
