@@ -1,6 +1,6 @@
 {
   "name": "organic-typing",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Captures human typing signals to build organic signatures",
   "main": "ux/cli/organic-cli.ts",
   "scripts": {
