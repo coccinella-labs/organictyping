@@ -82,6 +82,7 @@ jobs:
           new_patch=$((patch + 1))
           next_version="$major.$minor.$new_patch"
           echo "Next version: $next_version"
+          echo "next_version=$next_version" >> "$GITHUB_ENV"
           echo "$next_version" > VERSION
           # Update package.json version
           jq ".version = \"$next_version\"" package.json > package.json.tmp && mv package.json.tmp package.json
